@@ -1,11 +1,11 @@
-/* General Reset */
-* {
+
+ {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
   }
   
-  /* Body and Layout */
+  
   body {
     font-family: 'Arial', sans-serif;
     line-height: 1.6;
@@ -14,7 +14,7 @@
     background-color: #f4f4f4;
   }
   
-  /* Header */
+  
   header {
     background-color: #222;
     color: white;
@@ -60,7 +60,7 @@
     border-radius: 5px;
   }
   
-  /* Hero Section */
+  
   .hero {
     background: linear-gradient(135deg, #0056b3, #003f7d);
     color: white;
@@ -96,7 +96,7 @@
     background-color: #e76f51;
   }
   
-  /* Features Section */
+  
   .features {
     display: flex;
     justify-content: space-around;
@@ -120,7 +120,7 @@
     color: #555;
   }
   
-  /* About Section */
+  
   .about {
     padding: 50px 20px;
     background-color: #eeeeee;
@@ -141,7 +141,7 @@
     margin-right: auto;
   }
   
-  /* Contact Section */
+  
   .contact {
     padding: 50px 20px;
     text-align: center;
@@ -162,7 +162,7 @@
     margin-right: auto;
   }
   
-  /* Footer */
+  
   footer {
     text-align: center;
     padding: 20px;
